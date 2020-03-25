@@ -5,4 +5,4 @@ INSERT INTO bear (name) VALUES ("Sergeant Brown");
 INSERT INTO bear (name) VALUES ("Melissa");
 INSERT INTO bear (name) VALUES ("Grinch");
 INSERT INTO bear (name) VALUES ("Wendy");
-INSERT INTO bear (name) VALUES ("");
+INSERT INTO bear (name) VALUES ("NULL");
