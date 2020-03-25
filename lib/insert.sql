@@ -1,1 +1,1 @@
-INSERT INTO bear (name) VALUES ("Maru");
+INSERT INTO bear (name) VALUES ("Mr. Chocolate");
